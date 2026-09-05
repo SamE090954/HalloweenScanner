@@ -45,6 +45,14 @@ export DISPLAY=:0.0
 # or
 export DISPLAY=localhost:0
 ```
+### Permission Issues (Mac and Linux)
+'''
+Error: permission denied: ./setup/sh
+'''
+
+**Solutions**
+1. Try running '''chmod +x /file/path'''
+2. Rerun the initial '''./setup.sh''' command
 
 ## Runtime Issues
 
