@@ -79,10 +79,10 @@ Error: Camera device not available
    - System Settings → Privacy & Security → Camera
    - Enable for Terminal/IDE you're using
 2. Try different camera IDs:
-   - Open `main_ocean.py`
+   - Open `main_halloween.py`
    - Change `camera_id` parameter (try 0, 1, or 2)
 
-#### Poor Fish Detection
+#### Poor Creature Detection
 **Solutions:**
 1. Ensure good lighting conditions
 2. Keep corner markers clearly visible
@@ -127,7 +127,7 @@ python3 -m pip install -r requirements.txt --force-reinstall
 python3 -m pip install PyOpenGL-accelerate
 ```
 2. Close other resource-intensive applications
-3. Ensure good lighting for better fish detection
+3. Ensure good lighting for better creature detection
 
 ### Memory Issues
 **Solutions:**
@@ -135,12 +135,3 @@ python3 -m pip install PyOpenGL-accelerate
 2. Restart the application
 3. Make sure you have enough free disk space
 
-## Still Having Problems?
-
-If you're still experiencing issues:
-1. Check the [issues page](https://github.com/jharsono/fishscanner/issues) for similar problems
-2. Create a new issue with:
-   - Description of the problem
-   - Steps to reproduce
-   - Error messages
-   - Your system information (OS version, Python version)
