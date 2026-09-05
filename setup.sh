@@ -15,7 +15,7 @@ MIN_DISK_SPACE=500000  # 500MB
 MIN_MEMORY=1000000000     # 1GB
 PYTHON_VERSION="3.11"
 BREW_PACKAGES=("glfw" "python@${PYTHON_VERSION}" "freeglut")
-REQUIRED_DIRS=("photos" "ocean/patterns")
+REQUIRED_DIRS=("photos" "background/patterns")
 
 # Progress tracking
 total_steps=8
