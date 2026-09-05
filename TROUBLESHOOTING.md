@@ -47,7 +47,7 @@ export DISPLAY=localhost:0
 ```
 ### Permission Issues (Mac and Linux)
 ```
-Error: permission denied: ./setup/sh
+Error: permission denied
 ```
 
 **Solutions**
