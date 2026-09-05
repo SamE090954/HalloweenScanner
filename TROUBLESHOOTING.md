@@ -30,7 +30,7 @@ python3.11 --version
 
 ### XQuartz Issues
 ```
-Error: failed to open display
+Error: python@3.11 is already installed
 ```
 **Solutions:**
 1. Make sure you've logged out and back in after installing XQuartz
@@ -46,13 +46,16 @@ export DISPLAY=:0.0
 export DISPLAY=localhost:0
 ```
 ### Permission Issues (Mac and Linux)
-'''
+```
 Error: permission denied: ./setup/sh
-'''
+```
 
 **Solutions**
-1. Try running '''chmod +x /file/path'''
-2. Rerun the initial '''./setup.sh''' command
+1. Try running
+```
+chmod +x /file/path
+```
+3. Rerun the initial command
 
 ## Runtime Issues
 
