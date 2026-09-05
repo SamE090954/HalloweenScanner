@@ -1,6 +1,6 @@
 # Troubleshooting Guide
 
-This guide covers common issues you might encounter while setting up and running FishScanner.
+This guide covers common issues you might encounter while setting up and running HalloweenScanner.
 
 ## Installation Issues
 
