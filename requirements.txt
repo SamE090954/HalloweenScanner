@@ -1,6 +1,6 @@
 numpy>=1.21.0,<2.0.0
 opencv-python>=4.5.1.48,<5.0.0
 PyOpenGL>=3.1.6
-glfw
-pillow-heif
-watchdog>=3.0.0
+glfw <3.4.0
+pillow-heif>=0.20.0,<0.22.0
+watchdog>=3.0.0,<6.0.0
