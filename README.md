@@ -36,7 +36,7 @@ cd HalloweenScanner
 
 ## Platform Compatibility
 
-FishScanner is compatible with:
+HalloweenScanner is compatible with:
 - macOS (both Apple Silicon and Intel)
 - Windows
 - Linux
