@@ -100,6 +100,6 @@ echo "export DISPLAY=:0" >> ~/.zshrc
 
 ## Project Structure
 
-- `background/patterns/`: Fish templates for printing
+- `background/patterns/`: Templates for printing
 - `photos/`: Place your scanned drawings here
 - `engine/`: Core application code
