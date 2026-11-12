@@ -50,6 +50,7 @@ HalloweenScanner is compatible with:
 #### Windows
 - Requires OpenGL drivers (typically pre-installed)
 - May need to install Microsoft Visual C++ Redistributable if not already present
+- Uses .ps1 instead of .sh
 
 #### Linux
 - Requires OpenGL development libraries
